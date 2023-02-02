@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0
+    /* border 0; */
+}
+
+.bluebck {
+     background-color: rgb(41, 41, 196);
+     width: 90%;
+     height: 200px;
+     color: aliceblue;
+     text-align: center;
+     margin: 10;
+     padding: 10
+} 
